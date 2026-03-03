@@ -5,8 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princethakur19" alt="princethakur19" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/@princethakur" target="blank"><img src="https://img.shields.io/twitter/follow/@princethakur?logo=twitter&style=for-the-badge" alt="@princethakur" /></a> </p>
+
+- 🔭 I’m currently working on **Trade Fair Stall Booking System**
+
+- 📫 How to reach me **princethakur7778@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@princethakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@princethakur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prince-thakur-a99144264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince-thakur-a99144264" height="30" width="40" /></a>
+<a href="https://instagram.com/princethakur.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princethakur.19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princethakur19&show_icons=true&locale=en&layout=compact" alt="princethakur19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princethakur19&show_icons=true&locale=en" alt="princethakur19" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princethakur19&" alt="princethakur19" /></p>
