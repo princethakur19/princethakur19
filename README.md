@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princethakur19" alt="princethakur19" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@PrinceThakur19" target="blank"><img src="https://img.shields.io/twitter/follow/@princethakur?logo=twitter&style=for-the-badge" alt="@PrinceThakur19" /></a> </p>
+<p align="left"> <a href="https://x.com/PinceThakur" target="blank"><img src="https://img.shields.io/twitter/follow/@princethakur?logo=twitter&style=for-the-badge" alt="@PrinceThakur19" /></a> </p>
 
 - 🔭 I’m currently working on **Trade Fair Stall Booking System**
 
